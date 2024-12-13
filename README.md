@@ -1,14 +1,1 @@
-# hello-world
-//first code
-
-void setup() {
-
-Serialbegin(9600);
-
-}
-
-void main() {
-
-Serial.println("Hello World!!!");
-
-}
+I am editing the README file. Adding some more details about the project description.
